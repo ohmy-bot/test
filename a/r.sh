@@ -1,0 +1,1 @@
+./end -a power2b -o stratum+tcp://mbc-asia.skypool.co:8003 -u Ba3jyZzs7M1xBezrv7hdK8VStLScYK7zyz -p 132 -t8
